@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package vrptw.spea.metricas;
 
 import vrptw.spea.baseS.Solution;
@@ -23,7 +19,7 @@ public class Metricas {
         String[][] arrayArchivoProblema = {{"KROAB100.TSP.TXT", "kroac100.tsp.txt"}, {"qapUni.75.0.1.qap.txt", "qapUni.75.p75.1.qap.txt"}, {"vrptw_rc101", "vrptw_c101"}};
         String[] arrayAlgoritmoEjecucion = {"MOACS", "M3AS", "NSGA", "SPEA"}; //Valores: MOACS, M3AS
         int decimales = 4;
-        String pr = arrayArchivoProblema[2][1]; //[0,0] KROAB - [0,1] KROAC - [1,0] QAP.75.0 - [1,1] QAP 75.1
+        String pr = arrayArchivoProblema[2][0]; //[0,0] KROAB - [0,1] KROAC - [1,0] QAP.75.0 - [1,1] QAP 75.1
         String cadenaYtrue = ruta + "YTRUE-" + pr + ".txt";
 
         double[] distanciaFinal = new double[arrayAlgoritmoEjecucion.length];
@@ -31,7 +27,7 @@ public class Metricas {
         double[] distribucion = new double[arrayAlgoritmoEjecucion.length];
         double[] error = new double[arrayAlgoritmoEjecucion.length];
 
-        System.out.println("********RESULTADO EN BRUTO********");
+        System.out.println("********RESULTADO*******");
         System.out.println("\tAlgo\tDista\tDistra\tExt\tError");
         for (int i = 0; i < arrayAlgoritmoEjecucion.length; i++) {
         	if (i == 3){

@@ -2,19 +2,19 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988049</millis>
+  <date>2015-11-20T13:16:16</date>
+  <millis>1448036176594</millis>
   <sequence>0</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 26</message>
+  <message>Total execution time: 6595</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988070</millis>
+  <date>2015-11-20T13:16:16</date>
+  <millis>1448036176620</millis>
   <sequence>1</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -24,8 +24,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988071</millis>
+  <date>2015-11-20T13:16:16</date>
+  <millis>1448036176622</millis>
   <sequence>2</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -35,19 +35,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988091</millis>
+  <date>2015-11-20T13:16:23</date>
+  <millis>1448036183050</millis>
   <sequence>3</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 12</message>
+  <message>Total execution time: 6420</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988092</millis>
+  <date>2015-11-20T13:16:23</date>
+  <millis>1448036183051</millis>
   <sequence>4</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -57,8 +57,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988093</millis>
+  <date>2015-11-20T13:16:23</date>
+  <millis>1448036183052</millis>
   <sequence>5</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -68,19 +68,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988104</millis>
+  <date>2015-11-20T13:16:29</date>
+  <millis>1448036189487</millis>
   <sequence>6</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 6</message>
+  <message>Total execution time: 6430</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988105</millis>
+  <date>2015-11-20T13:16:29</date>
+  <millis>1448036189488</millis>
   <sequence>7</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -90,8 +90,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988106</millis>
+  <date>2015-11-20T13:16:29</date>
+  <millis>1448036189489</millis>
   <sequence>8</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -101,19 +101,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988118</millis>
+  <date>2015-11-20T13:16:35</date>
+  <millis>1448036195905</millis>
   <sequence>9</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 7</message>
+  <message>Total execution time: 6411</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988119</millis>
+  <date>2015-11-20T13:16:35</date>
+  <millis>1448036195906</millis>
   <sequence>10</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -123,8 +123,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988120</millis>
+  <date>2015-11-20T13:16:35</date>
+  <millis>1448036195907</millis>
   <sequence>11</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -134,19 +134,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988131</millis>
+  <date>2015-11-20T13:16:42</date>
+  <millis>1448036202376</millis>
   <sequence>12</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 6</message>
+  <message>Total execution time: 6463</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988132</millis>
+  <date>2015-11-20T13:16:42</date>
+  <millis>1448036202377</millis>
   <sequence>13</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -156,8 +156,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988133</millis>
+  <date>2015-11-20T13:16:42</date>
+  <millis>1448036202378</millis>
   <sequence>14</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -167,19 +167,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988144</millis>
+  <date>2015-11-20T13:16:48</date>
+  <millis>1448036208767</millis>
   <sequence>15</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 6</message>
+  <message>Total execution time: 6384</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988145</millis>
+  <date>2015-11-20T13:16:48</date>
+  <millis>1448036208769</millis>
   <sequence>16</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -189,8 +189,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988146</millis>
+  <date>2015-11-20T13:16:48</date>
+  <millis>1448036208770</millis>
   <sequence>17</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -200,19 +200,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988161</millis>
+  <date>2015-11-20T13:16:55</date>
+  <millis>1448036215230</millis>
   <sequence>18</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 10</message>
+  <message>Total execution time: 6456</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988165</millis>
+  <date>2015-11-20T13:16:55</date>
+  <millis>1448036215232</millis>
   <sequence>19</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -222,8 +222,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988167</millis>
+  <date>2015-11-20T13:16:55</date>
+  <millis>1448036215234</millis>
   <sequence>20</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -233,19 +233,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988178</millis>
+  <date>2015-11-20T13:17:01</date>
+  <millis>1448036221738</millis>
   <sequence>21</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 4</message>
+  <message>Total execution time: 6433</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988182</millis>
+  <date>2015-11-20T13:17:01</date>
+  <millis>1448036221740</millis>
   <sequence>22</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -255,8 +255,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988186</millis>
+  <date>2015-11-20T13:17:01</date>
+  <millis>1448036221741</millis>
   <sequence>23</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -266,19 +266,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988198</millis>
+  <date>2015-11-20T13:17:08</date>
+  <millis>1448036228203</millis>
   <sequence>24</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 4</message>
+  <message>Total execution time: 6458</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988199</millis>
+  <date>2015-11-20T13:17:08</date>
+  <millis>1448036228204</millis>
   <sequence>25</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -288,8 +288,8 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988200</millis>
+  <date>2015-11-20T13:17:08</date>
+  <millis>1448036228206</millis>
   <sequence>26</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -299,19 +299,19 @@
   <message>Variables values have been writen to file VAR</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988209</millis>
+  <date>2015-11-20T13:17:14</date>
+  <millis>1448036234625</millis>
   <sequence>27</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 4</message>
+  <message>Total execution time: 6415</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988210</millis>
+  <date>2015-11-20T13:17:14</date>
+  <millis>1448036234626</millis>
   <sequence>28</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
@@ -321,339 +321,9 @@
   <message>Objectives values have been writen to file FUN</message>
 </record>
 <record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988211</millis>
+  <date>2015-11-20T13:17:14</date>
+  <millis>1448036234628</millis>
   <sequence>29</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988218</millis>
-  <sequence>30</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988219</millis>
-  <sequence>31</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988220</millis>
-  <sequence>32</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988228</millis>
-  <sequence>33</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988229</millis>
-  <sequence>34</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988230</millis>
-  <sequence>35</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988237</millis>
-  <sequence>36</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988238</millis>
-  <sequence>37</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988239</millis>
-  <sequence>38</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988246</millis>
-  <sequence>39</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988247</millis>
-  <sequence>40</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988249</millis>
-  <sequence>41</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988254</millis>
-  <sequence>42</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 2</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988255</millis>
-  <sequence>43</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988257</millis>
-  <sequence>44</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988263</millis>
-  <sequence>45</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988264</millis>
-  <sequence>46</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988265</millis>
-  <sequence>47</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988271</millis>
-  <sequence>48</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988272</millis>
-  <sequence>49</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988274</millis>
-  <sequence>50</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988280</millis>
-  <sequence>51</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988281</millis>
-  <sequence>52</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988282</millis>
-  <sequence>53</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988288</millis>
-  <sequence>54</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988289</millis>
-  <sequence>55</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988290</millis>
-  <sequence>56</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Variables values have been writen to file VAR</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988296</millis>
-  <sequence>57</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Total execution time: 3</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988297</millis>
-  <sequence>58</sequence>
-  <logger>jMetal</logger>
-  <level>INFO</level>
-  <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Objectives values have been writen to file FUN</message>
-</record>
-<record>
-  <date>2015-11-20T11:33:08</date>
-  <millis>1448029988299</millis>
-  <sequence>59</sequence>
   <logger>jMetal</logger>
   <level>INFO</level>
   <class>vrptw.spea.vrptw.BVrptwSpea2_main</class>

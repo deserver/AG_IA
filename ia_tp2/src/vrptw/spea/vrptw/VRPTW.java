@@ -127,7 +127,7 @@ public class VRPTW extends Problem {
                 token.nextToken();
                
                 
-               /* if (!(tiemposervicioGlobal >= cust.getTimeStart())){
+                /*if (!(tiemposervicioGlobal >= cust.getTimeStart())){
                 	while (!(tiemposervicioGlobal >= cust.getTimeStart()))
                 		tiemposervicioGlobal++;
                 	}

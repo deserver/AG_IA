@@ -37,7 +37,7 @@ public class BVrptwSpea2_main {
      */
     public static void main(String[] args) throws JMException, IOException {
 
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 10; i++) {
             Problem problem;         // The problem to solve
 
             Algorithm algorithm;         // The algorithm to use
@@ -48,8 +48,8 @@ public class BVrptwSpea2_main {
 
             Operator selection;         // Selection operator
 
-            //String name = "vrptw_rc101";
-            String name = "vrptw_c101";
+            String name = "vrptw_rc101";
+            //String name = "vrptw_c101";
             String problemName = "src/vrptw/spea/instancias/";
 
 
@@ -71,16 +71,16 @@ public class BVrptwSpea2_main {
             algorithm = new SPEA2(problem);
 
             // Algorithm params    
-            algorithm.setInputParameter("populationSize", 10);
-            algorithm.setInputParameter("archiveSize", 10);
-            algorithm.setInputParameter("maxEvaluations", 100);
+            algorithm.setInputParameter("populationSize", 101);
+            algorithm.setInputParameter("archiveSize", 101);
+            algorithm.setInputParameter("maxEvaluations", 25000);
 
             // Mutation and Crossover for Real codification
             crossover = CrossoverFactory.getCrossoverOperator("TwoPointsCrossover");
-            crossover.setParameter("probability", 0.7);
+            crossover.setParameter("probability", 0.9);
             crossover.setParameter("distribuitionIndex", 20.0);
             mutation = MutationFactory.getMutationOperator("SwapMutation");
-            mutation.setParameter("probability", 0.3);
+            mutation.setParameter("probability", 1.0 / problem.getNumberOfVariables());
             mutation.setParameter("distributionIndex", 20.0);
 
             /* Mutation and Crossover Binary codification */
