@@ -48,8 +48,8 @@ public class BVrptwSpea2_main {
 
             Operator selection;         // Selection operator
 
-            String name = "vrptw_rc101";
-            //String name = "vrptw_c101";
+            //String name = "vrptw_rc101";
+            String name = "vrptw_c101";
             String problemName = "src/vrptw/spea/instancias/";
 
 
@@ -111,7 +111,7 @@ public class BVrptwSpea2_main {
             logger_.info("Variables values have been writen to file VAR");
             population.printVariablesToFile("parametros/VAR");
             //population.printObjectivesToFile("c:\\instancias-parametros\\generado\\" + name + "-SPEA.txt");
-            population.printObjectivesToFile("/home/sergio/" + name + "-SPEA.txt");
+            population.printObjectivesToFile("parametros/generados/" + name + "-SPEA.txt");
             
 
         }

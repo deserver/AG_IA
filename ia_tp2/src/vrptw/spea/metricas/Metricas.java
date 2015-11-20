@@ -19,7 +19,7 @@ public class Metricas {
         String[][] arrayArchivoProblema = {{"KROAB100.TSP.TXT", "kroac100.tsp.txt"}, {"qapUni.75.0.1.qap.txt", "qapUni.75.p75.1.qap.txt"}, {"vrptw_rc101", "vrptw_c101"}};
         String[] arrayAlgoritmoEjecucion = {"MOACS", "M3AS", "NSGA", "SPEA"}; //Valores: MOACS, M3AS
         int decimales = 4;
-        String pr = arrayArchivoProblema[2][0]; //[0,0] KROAB - [0,1] KROAC - [1,0] QAP.75.0 - [1,1] QAP 75.1
+        String pr = arrayArchivoProblema[2][1]; //[0,0] KROAB - [0,1] KROAC - [1,0] QAP.75.0 - [1,1] QAP 75.1
         String cadenaYtrue = ruta + "YTRUE-" + pr + ".txt";
 
         double[] distanciaFinal = new double[arrayAlgoritmoEjecucion.length];
@@ -61,7 +61,7 @@ public class Metricas {
         }
         miPrueba.GenerarYTrue(cadenaYtrue, ruta + "YTRUE");
 
-        System.out.println("********RESULTADO NORMALIZADO********");
+        /*System.out.println("********RESULTADO NORMALIZADO********");
         System.out.println("\tAlgo\tDista\tDistra\tExt\tError");
 
         for (int i = 0; i < arrayAlgoritmoEjecucion.length; i++) {
@@ -93,7 +93,7 @@ public class Metricas {
 	            System.out.print(miPrueba.getExtension(cadenaYtrue) + "\n");
         	}
 
-        }
+        }*/
 
     }
 
