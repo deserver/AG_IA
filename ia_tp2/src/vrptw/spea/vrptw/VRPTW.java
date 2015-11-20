@@ -20,6 +20,8 @@ public class VRPTW extends Problem {
     double x,y,dem,begin,end,servTime;
     double carga;
     int camiones = 1;
+    double tiemposervicioGlobal = 0;
+    
 
 
     public VRPTW(String filename) throws FileNotFoundException, IOException {
@@ -124,11 +126,28 @@ public class VRPTW extends Problem {
                 customers[i] = cust; 
                 token.nextToken();
                
+                
+               /* if (!(tiemposervicioGlobal >= cust.getTimeStart())){
+                	while (!(tiemposervicioGlobal >= cust.getTimeStart()))
+                		tiemposervicioGlobal++;
+                	}
+                else if ((tiemposervicioGlobal+cust.getServiceTime() <= cust.getTimeEnd())){
+                	 carga += cust.getDemanda();
+                     tiemposervicioGlobal += cust.getServiceTime();
+                     if (carga >= capacity){
+                         camiones++;
+                         carga = 0;
+                     }
+				}*/
+                	
                 carga += cust.getDemanda();
                 if (carga >= capacity){
                     camiones++;
                     carga = 0;
                 }
+               
+                
+
 
             } 
             
