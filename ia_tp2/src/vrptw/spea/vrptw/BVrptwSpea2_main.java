@@ -48,8 +48,8 @@ public class BVrptwSpea2_main {
 
             Operator selection;         // Selection operator
 
-            //String name = "vrptw_rc101";
-            String name = "vrptw_c101";
+            String name = "vrptw_rc101";
+            //String name = "vrptw_c101";
             String problemName = "src/vrptw/spea/instancias/";
 
 

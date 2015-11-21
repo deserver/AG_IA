@@ -16,10 +16,10 @@ public class Metricas {
 
         Metricas miPrueba = new Metricas();
         String ruta = "parametros/generados/";
-        String[][] arrayArchivoProblema = {{"KROAB100.TSP.TXT", "kroac100.tsp.txt"}, {"qapUni.75.0.1.qap.txt", "qapUni.75.p75.1.qap.txt"}, {"vrptw_rc101", "vrptw_c101"}};
-        String[] arrayAlgoritmoEjecucion = {"MOACS", "M3AS", "NSGA", "SPEA"}; //Valores: MOACS, M3AS
+        String[] arrayAlgoritmoEjecucion = {"MOACS", "M3AS", "NSGA", "SPEA"}; 
         int decimales = 4;
-        String pr = arrayArchivoProblema[2][1]; //[0,0] KROAB - [0,1] KROAC - [1,0] QAP.75.0 - [1,1] QAP 75.1
+        //String pr = "vrptw_rc101"; 
+        String pr = "vrptw_c101";
         String cadenaYtrue = ruta + "YTRUE-" + pr + ".txt";
 
         double[] distanciaFinal = new double[arrayAlgoritmoEjecucion.length];
@@ -61,39 +61,6 @@ public class Metricas {
         }
         miPrueba.GenerarYTrue(cadenaYtrue, ruta + "YTRUE");
 
-        /*System.out.println("********RESULTADO NORMALIZADO********");
-        System.out.println("\tAlgo\tDista\tDistra\tExt\tError");
-
-        for (int i = 0; i < arrayAlgoritmoEjecucion.length; i++) {
-        	if (i==3){
-	            String algoritmoEjecucion = arrayAlgoritmoEjecucion[i];
-	            String cadAlgoritmo = ruta + pr + "-" + algoritmoEjecucion + ".txt";
-	
-	            System.out.print("\t" + arrayAlgoritmoEjecucion[i] + "\t");
-	            System.out.print(Truncar((1 - (distanciaFinal[i] / maximoValor(distanciaFinal))), decimales) + "\t");
-	            System.out.print(Truncar(distribucion[i] / miPrueba.getCardinalidad(cadAlgoritmo), decimales) + "\t");
-	            System.out.print(Truncar(extension[i] / miPrueba.getExtension(cadenaYtrue), decimales) + "\t");
-	            System.out.print(miPrueba.getCardinalidad(cadAlgoritmo) + "\t");
-	            System.out.print(miPrueba.getExtension(cadenaYtrue) + "\n");
-        	}
-
-        }
-        System.out.println("Algo;Dista;Distra;Ext");
-
-        for (int i = 0; i < arrayAlgoritmoEjecucion.length; i++) {
-        	if (i==3){
-	            String algoritmoEjecucion = arrayAlgoritmoEjecucion[i];
-	            String cadAlgoritmo = ruta + pr + "-" + algoritmoEjecucion + ".txt";
-	
-	            System.out.print(arrayAlgoritmoEjecucion[i] + ";");
-	            System.out.print(Truncar((1 - (distanciaFinal[i] / maximoValor(distanciaFinal))), decimales) + ";");
-	            System.out.print(Truncar(distribucion[i] / miPrueba.getCardinalidad(cadAlgoritmo), decimales) + ";");
-	            System.out.print(Truncar(extension[i] / miPrueba.getExtension(cadenaYtrue), decimales) + ";");
-	            System.out.print(miPrueba.getCardinalidad(cadAlgoritmo) + ";");
-	            System.out.print(miPrueba.getExtension(cadenaYtrue) + "\n");
-        	}
-
-        }*/
 
     }
 
